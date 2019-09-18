@@ -25,8 +25,10 @@ Sample python code
 Create sample python code to generate an array(Use numpy package)
 Install numpy package: `pip install numpy`
 Create a requirement file: `pip freeze > requirement.txt`
- 
-handler.py
+
+Code to generate a sample matrix using np
+
+`handler.py`
 ```
 import numpy as np
 import json
