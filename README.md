@@ -1,6 +1,6 @@
 Install serverless
 ------------------
-npm install -g serverless
+`npm install -g serverless`
 
 Create Service
 --------------
